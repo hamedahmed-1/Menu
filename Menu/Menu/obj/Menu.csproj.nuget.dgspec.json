@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UIS\\Desktop\\Menu\\Menu\\Menu.csproj": {}
+    "C:\\Users\\UIS\\Desktop\\MenuRepo\\Menu\\Menu\\Menu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UIS\\Desktop\\Menu\\Menu\\Menu.csproj": {
+    "C:\\Users\\UIS\\Desktop\\MenuRepo\\Menu\\Menu\\Menu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UIS\\Desktop\\Menu\\Menu\\Menu.csproj",
+        "projectUniqueName": "C:\\Users\\UIS\\Desktop\\MenuRepo\\Menu\\Menu\\Menu.csproj",
         "projectName": "Menu",
-        "projectPath": "C:\\Users\\UIS\\Desktop\\Menu\\Menu\\Menu.csproj",
+        "projectPath": "C:\\Users\\UIS\\Desktop\\MenuRepo\\Menu\\Menu\\Menu.csproj",
         "packagesPath": "C:\\Users\\UIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UIS\\Desktop\\Menu\\Menu\\obj\\",
+        "outputPath": "C:\\Users\\UIS\\Desktop\\MenuRepo\\Menu\\Menu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
